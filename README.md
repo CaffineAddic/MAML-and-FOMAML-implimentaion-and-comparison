@@ -29,7 +29,8 @@ cuda=False
 ##### That's it the code should work on your system
 
 This code also times the execution time using time library and the jupyter code as been run for 10000 steps, if you are intrested in seeing the difference and learning more about the MAML amd FOMAML.
-####### Please check out the PDF uploaded here
-El Psy Kongroo my friend
+####### Please check out the PDF uploaded here.
+
+~El Psy Kongroo my friend~
 
 If any issues open a Github query @CaffineAddic
